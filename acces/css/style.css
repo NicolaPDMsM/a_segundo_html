@@ -1,0 +1,9 @@
+h1 {
+    color: blue;
+    font-size: 32px;
+}
+.texto_verde {
+    color: green;
+    font-size: 26px;
+    font-style: italic;
+}
